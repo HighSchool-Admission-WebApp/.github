@@ -1,6 +1,6 @@
 ## Hi there 👋, This is our high-School-Admission-Management project using MERN
 
-<!--
+
 ![Screenshot (692)](https://user-images.githubusercontent.com/88885329/188061516-65b43e7b-c08c-460f-a275-412946cf5733.png)
 ![Screenshot (693)](https://user-images.githubusercontent.com/88885329/188061510-60c7523a-d0ef-417f-9451-fc87f3726eb4.png)
 ![Screenshot (694)](https://user-images.githubusercontent.com/88885329/188061501-964c5892-5b22-41bb-b593-15aae308b259.png)
